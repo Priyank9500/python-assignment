@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa2b0e75-337f-45b0-b68b-2be6520e3113" name="Changes" comment="https://github.com/Priyank9500/python-assignment.git" />
+    <list default="true" id="aa2b0e75-337f-45b0-b68b-2be6520e3113" name="Changes" comment="Assignment">
+      <change afterPath="$PROJECT_DIR$/week 3/week3_chp3_exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/week3_chp3_exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/week3_chp3_exercise3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/week3_chp3_exercise4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/week3_chp4_exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week 3/week3_chp4_exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Priyank9500&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Priyank9500/python-assignment.git&quot;,
+    &quot;accountId&quot;: &quot;bd77ff26-3fda-444a-bc10-9d944a40b6f1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -64,7 +84,8 @@
       <workItem from="1725262932765" duration="7430000" />
       <workItem from="1725784541177" duration="252000" />
       <workItem from="1725816028950" duration="615000" />
-      <workItem from="1725816699740" duration="1508000" />
+      <workItem from="1725816699740" duration="2247000" />
+      <workItem from="1725891816400" duration="742000" />
     </task>
     <task id="LOCAL-00001" summary="https://github.com/Priyank9500/python-assignment.git">
       <option name="closed" value="true" />
@@ -74,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725818834750</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment">
+      <option name="closed" value="true" />
+      <created>1725818951925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725818951925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +122,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="https://github.com/Priyank9500/python-assignment.git" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/Priyank9500/python-assignment.git" />
+    <MESSAGE value="Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$condition.coverage" NAME="condition Coverage Results" MODIFIED="1725274246799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
